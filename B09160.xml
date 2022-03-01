@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all my dear Friends elect and precious in America.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09160</idno>
+            <idno type="OCLC"> 80922725</idno>
+            <idno type="STC">Wing F1804A</idno>
+            <idno type="STC">ESTC R181332</idno>
+            <idno type="EEBO-CITATION">80922725</idno>
+            <idno type="OCLC">ocm 80922725</idno>
+            <idno type="VID">191878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191878)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2894:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all my dear Friends elect and precious in America.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet, ([1]) p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Swarthmore, England :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G. Fox, Swarthmore in Lancashire, the 12th of the 12th moneth, 1675.</note>
+                  <note>Text in two columns.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Society of Friends --  North America --  Early works to 1800.</term>
+               <term>Quakers --  North America --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:191878:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO ALL MY DEAR FRIENDS Elect and Precious IN AMERICA.</head>
+            <p>STand faſt in the Faith which <hi>Christ Jeſus</hi> is the Author of, by his heavenly Enſign, in your heavenly Armour and in your heaven<g ref="char:EOLhyphen"/>ly Weapons, your feet ſhod with the heavenly Goſ<g ref="char:EOLhyphen"/>pel, and your Heads preſerved with the Helmet of Salvation, and your Hearts preſerved with the Breaſt-plate of Righteouſneſs, and ſo ſtand feeling and ſeeing <hi>God's</hi> Banner of Love over your Heads, manifeſting that you are the good ground, that <hi>God's</hi> Seed has taken root downward in, and ſpring upward in, and bring forth Fruits in ſome 60. and in ſome 100 fold in this Life; to the Praiſe and Glory of God, alwayes beholding the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, that never ſets, ruling the ſupernatural Day of which you are Children, and the perſecutors Sun (the heat of it which riſes and ſetts again) cannot ſcorch your Blade, which it may do that Seed that grows on the ſtony Ground.</p>
+            <p>And therefore, be valiant for God's Truth upon the Earth, and fear him, that can break their <hi>Fetters,</hi> there <hi>Goals,</hi> and there <hi>Bonds</hi> in ſunder, and can make your Fleece to grow again, after the Wolves have torn the Woll from your Backs; for <hi>the Rod of the wicked ſhall not be alwayes upon the backs of the righteous.</hi>
+            </p>
+            <p>And therefore mind Chriſt, who is the firſt and laſt, who bruſes the Head of him who is the Head of all Perſecutors, to wit, the Devil.</p>
+            <p>And conſider how all the <hi>Faithfull</hi> in all Ages ſuffered from righteous <hi>Abel</hi> to Juſt <hi>Lot,</hi> and the Children of <hi>Iſrael</hi> by <hi>Pharaoh,</hi> and all the true Pro<g ref="char:EOLhyphen"/>phets by the falſe, and Chriſt and the Apoſtles by the vagabond profeſſing <hi>Jews</hi> (out of the poſſeſſion) and what rejoycing it was to them to ſuffer for the Lord Jeſus, and how it was given unto them, <hi>not onely to believe, but alſo to Suffer;</hi> ſo it was a Gift of God to them, not onely to believe, but to ſuffer, and to carry them up in their Suffering.</p>
+            <p>And conſider how all the Martyrs and Saints have ſuffered ſince the Apoſtles dayes, by the <hi>Heathens</hi> and falſe Chriſtians; and ſo there is no new thing under the Sun.</p>
+            <p>And therefore keep your Meetings in the Name of Jeſus, whoſe Name is above every Name, in whoſe Name you have ſalvation; and be valiant for God's Truth upon the Earth, and ſound his Name abroad and keep in the Truth, and give no juſt Occaſion to the Adverſary; for the Lamb muſt have the Victory; and keep in the Lords Power, that is over all, and in his peaceable Truth, in which you will feel the Good and eternal Welfare &amp; Salvation of all People.</p>
+            <p>And the Prophet <hi>Eſaiah</hi> ſpeaking of Chriſt ſayes, <hi>In all their Afflctions he was afflicted, &amp; the Angel of his Preſence ſaved them,</hi> ſo all Friends feel the <hi>Lord</hi> in all your Afflictions.</p>
+            <p>And the Apoſtle ſaith, <hi>we our ſelves glory in you in the Churches of God, for your Patience and Faith in all your Perſecution and Tribulation that you</hi> indure.</p>
+            <p>So here you may ſee the Saints are one another's Joy in the Lord, who doth uphold them in all their Perſecutions, Tribulations, and Sufferings; and therefore look over the Devil, that is out of Truth, that makes to ſuffer, to Chriſt, who bruiſes his Head; and in Chriſt, who is firſt and laſt, in him have you Reſt, Life and Peace.</p>
+            <p>And you ſee by faith, Moſes <hi>choſe rather to ſuffer Afflictions with the People of God, then to enjoy the Pleaſures of Sin for a Seaſon.</hi>
+            </p>
+            <p>So by Faith, <hi>he eſteemed the Reproaches of Chriſt greater Riches, then the Treaſures in</hi> Egypt.</p>
+            <p>And by <hi>Faith</hi> Moſes <hi>forſook</hi> Egypt, <hi>not fearing the Wrath of the King, for he indured, as ſeeing him who is inviſible;</hi> and ſo by Faith God's People now forſake <hi>Egypt</hi> in Spirit.</p>
+            <p>And by <hi>faith the Mouthes of the Lyons were ſtopt;</hi> and <hi>by faith they indured Tortures, not expecting De<g ref="char:EOLhyphen"/>liverance that they might obtain a better Reſurection,</hi> and by Faith they underwent all the <hi>Cruel mockings, ſcorgings, Bonds and Impriſonments;</hi> and by Faith they under went <hi>Stoneing and Sawing aſunder,</hi> and were <hi>tempted</hi> and <hi>ſlain with the Sword,</hi> and <hi>they wandered about in Sheep-skins and Goats-skins, being deſtitute, afflicted and tormented, of whom the World was not worthy,</hi> &amp;c.</p>
+            <p>Now all theſe lived in the one Faith, by which they ſaw him who was inviſible, which is the Faith of God's elect now (which Chriſt Jeſus is the Au<g ref="char:EOLhyphen"/>thor and Finiſher of) which Faith upholds his Peo<g ref="char:EOLhyphen"/>ple now, as it did them, againſt the Perſecutors in Dayes and Ages paſt.</p>
+            <p>And hold faſt the hope which anchors the Soul, which is ſure and ſtedfaſt, that you may float above the worlds Sea; for your Anchor holds ſure and ſtedfaſt in the Bottom, let the Winds, Storms and raging Waves riſe never ſo high: And your ſtar is fixt, by which you may ſteer to the eternal Land of Reſt, and Kingdom of God: So no more, but my Love to you all.</p>
+            <closer>
+               <dateline>
+                  <hi>Swarthmore</hi> in <hi>Lancaſhire</hi> 
+                  <date>the 12th of the 12th Moneth, 1675.</date>
+               </dateline>
+               <signed>G. Fox.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
